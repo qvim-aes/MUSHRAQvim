@@ -10,7 +10,7 @@ pages:
     - type: generic
       id: first_page
       name: Querying by vocal imitation MUSHRA Test
-      content: Thank you for being a part on our subjective evaluation to decide which team wins the Querying by vocal imitation challenge from the Audio Engineering Society (AES) AIMLA Conference 2025 !       
+      content: Thank you for being a part on our subjective evaluation to decide which team wins the Querying by vocal imitation challenge from the Audio Engineering Society (AES) AIMLA Conference 2025 !  You will rate 20 sound categories.  The objective of this test is that you will have different imitations and you will say which imitation sounds closer to the reference (real sound they're trying to imitate. )     
     - type: mushra
       id: trial1
       name: MUSHRA
@@ -28,7 +28,7 @@ pages:
           - random
           - type: mushra
             id: trial_random_1
-            name: MUSHRA - Random 2
+            name: Sound Category 1 - 
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
             reference: configs/resources/audio/mono_ref.wav
@@ -40,7 +40,7 @@ pages:
                 C3: configs/resources/audio/mono_c3.wav          
           - type: mushra
             id: trial_random_2
-            name: MUSHRA - Random 1
+            name: Sound Category 2-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
             reference: configs/resources/audio/mono_ref.wav
@@ -49,7 +49,19 @@ pages:
             stimuli:
                 C1: configs/resources/audio/mono_c1.wav
                 C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav          
+                C3: configs/resources/audio/mono_c3.wav   
+          - type: mushra
+            id: trial_random_3
+            name: Sound Category 3-
+            content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
+            enableLooping: true 
+            reference: configs/resources/audio/mono_ref.wav
+            createAnchor35: false
+            createAnchor70: false
+            stimuli:
+                C1: configs/resources/audio/mono_c1.wav
+                C2: configs/resources/audio/mono_c2.wav
+                C3: configs/resources/audio/mono_c3.wav        
     - type: finish
       name: Thank you
       content: Thank you for attending!
