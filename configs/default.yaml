@@ -61,7 +61,43 @@ pages:
             stimuli:
                 C1: configs/resources/audio/mono_c1.wav
                 C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav        
+                C3: configs/resources/audio/mono_c3.wav 
+          - type: mushra
+            id: trial_random_4
+            name: Sound Category 4-
+            content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
+            enableLooping: true 
+            reference: configs/resources/audio/mono_ref.wav
+            createAnchor35: false
+            createAnchor70: false
+            stimuli:
+                C1: configs/resources/audio/mono_c1.wav
+                C2: configs/resources/audio/mono_c2.wav
+                C3: configs/resources/audio/mono_c3.wav   
+          - type: mushra
+            id: trial_random_5
+            name: Sound Category 5-
+            content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
+            enableLooping: true 
+            reference: configs/resources/audio/mono_ref.wav
+            createAnchor35: false
+            createAnchor70: false
+            stimuli:
+                C1: configs/resources/audio/mono_c1.wav
+                C2: configs/resources/audio/mono_c2.wav
+                C3: configs/resources/audio/mono_c3.wav  
+           - type: mushra
+            id: trial_random_6
+            name: Sound Category 6-
+            content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
+            enableLooping: true 
+            reference: configs/resources/audio/mono_ref.wav
+            createAnchor35: false
+            createAnchor70: false
+            stimuli:
+                C1: configs/resources/audio/mono_c1.wav
+                C2: configs/resources/audio/mono_c2.wav
+                C3: configs/resources/audio/mono_c3.wav                   
     - type: finish
       name: Thank you
       content: Thank you for attending!
