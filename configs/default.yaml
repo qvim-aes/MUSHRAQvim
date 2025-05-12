@@ -1,4 +1,4 @@
-testname: webMUSHRA Example
+testname: QVIM  Subjective Evaluation
 testId: default_example
 bufferSize: 2048
 stopOnErrors: true
@@ -9,8 +9,8 @@ remoteService: service/write.php
 pages:
     - type: generic
       id: first_page
-      name: Welcome
-      content: Welcome to webMUSHRA!       
+      name: Querying by vocal imitation MUSHRA Test
+      content: Thank you for being a part on our subjective evaluation to decide which team wins the Querying by vocal imitation challenge from the Audio Engineering Society (AES) AIMLA Conference 2025 !       
     - type: mushra
       id: trial1
       name: MUSHRA
