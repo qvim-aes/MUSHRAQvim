@@ -49,13 +49,19 @@ pages:
             name: Sound Category 2-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/MachineGun33-01.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav   
+                C1: configs/resources/audio/Sounds_original/Machine Gun(2).wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/GUNAuto_M1919 Browning Machine Gun Gunshot 02 30 M3_PSE_KCGP_t7iNZ-s003.wav
+                C3: configs/resources/audio/Baseline_rank_1/GUNAuto_Gunshot Submachine Gun_PSE_BW-BD3_mS5Ci.wav
+                C4: configs/resources/audio/Chung_rank_1/GUNAuto_Warfare Rifles_PSE_OE_P247G-s001.wav
+                C5: configs/resources/audio/fp4DM_rank_1/GUNAuto_AK47 Machine Gun Bullet Buzz By Ricochet Burst_PSE_OW_vi8ej-s001.wav
+                C6: configs/resources/audio/JKU_rank_1/GUNAuto_M2 Browning Belt Fed Machine Gun Gunshot 270 38 M1_PSE_KCGP_5EcWD-s004.wav
+                C7: configs/resources/audio/Kumar_rank_1/FEETHors_Horse Walk Approach Pass By on Pavement Away_PSE_OC_zb7DQ-s002.wav
+                C8: configs/resources/audio/PassionLab_rank_1/GUNAuto_Gunshot Machine Gun_PSE_BW-BD3_hQ8JU.wav
+                C9: configs/resources/audio/ThiagoLobato_rank_1/GUNAuto_Thompson Submachine Gun Full Automatic Shots_PSE_TGN_g1wQq.wav
           - type: mushra
             id: trial_random_3
             name: Sound Category 3-
