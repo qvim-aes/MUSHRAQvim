@@ -91,7 +91,7 @@ pages:
             stimuli:
                 C1: configs/resources/audio/Sounds_original/Scratching(2).wav
                 C2: configs/resources/audio/AudioAlchemyrank_1/DESTRCrsh_Crash Mix_PSE_BW-BD3_9bJMQ.wav
-                C3: 
+                C3: //MISISING FILE
                 C4: configs/resources/audio/Chung_rank_1/THUN_Lightning Crack Series Electric Buzz Crackle 03_PSE_SMV1_FMDws-s006.wav
                 C5: configs/resources/audio/fp4DM_rank_1/THUN_Lightning Crack Series Electric Buzz Crackle 04_PSE_SMV1_ediXn-s004.wav
                 C6: configs/resources/audio/JKU_rank_1/THUN_Thunder Distort 01_PSE_CLACK_pJuVw-s002.wav 
@@ -104,61 +104,97 @@ pages:
             name: Sound Category 5-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/Whip25-02.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav  
+                C1: configs/resources/audio/Sounds_original/Whip32.wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/ANMLDog_Dog Bark Cutsie 08_PSE_SR-COM_5Y3iU.wav
+                C3: configs/resources/audio/Baseline_rank_1/COMPhono_Record Scratch 09_PSE_SR-COM_TBJuF.wav
+                C4: configs/resources/audio/fp4DM_rank_1/CLOTHRip_Cloth Rips Tearing Very Thin Material_PSE_OX_glis0-s006.wav 
+                C5: configs/resources/audio/JKU_rank_1/WEAPWhip_Wolf Whips Whip Cracks 15_PSE_OCX_1bSX4-s001.wav 
+                C6: configs/resources/audio/Kumar_rank_1/WEAPSwrd_Sword Whip_PSE_BW-BD3_B25Kl.wav
+                C7: configs/resources/audio/PassionLab_rank_1/GUNAuto_AK47 Underwater Machine Gun Metallic Impacts_PSE_OW_cXsiW-s002.wav
+                C8: configs/resources/audio/ThiagoLobato_rank_1/WEAPWhip_Buggy Whip Individual Swishes_PSE_OX_lR7bh-s003.wav
+
+
            - type: mushra
             id: trial_random_6
             name: Sound Category 6-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/DogBarks23-01.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav     
+                C1: configs/resources/audio/Sounds_original/ANMLDog_Several Dogs Barking CU and Distant_PSE_GEN3_2mHdW.wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/ANMLDog_Animal Dog Beagle Female Bark Close05_PSE_SL-FL_yZAPo.wav
+                C3: configs/resources/audio/Baseline_rank_1/ANMLDog_Dog Bark Nice Woof 04_PSE_SR-COM_NJwsz.wav
+                C4: configs/resources/audio/Chung_rank_1/ANMLDog_Dog Yaps Small Whiny Barking Bursts 03_PSE_OC_w5aeA-s002.wav
+                C5: configs/resources/audio/fp4DM_rank_1/ANMLDog_Dog Cairn Terrier Barks Growls Sneeze_PSE_OC_Qf5pt-s009.wav
+                C6: configs/resources/audio/JKU_rank_1/ANMLDog_German Shepherd Squeaky Barks Panting Whimpers_PSE_OC_udmJy-s005.wav
+                C7: configs/resources/audio/Kumar_rank_1/WEAPWhip_Buggy Whip Individual Swishes_PSE_OX_lR7bh-s001.wav
+                C8: configs/resources/audio/PassionLab_rank_1/ANMLDog_Dog Cocker Spaniel Barks Yelps Whimpering_PSE_OC_MHkE8-s004.wav
+                C9: configs/resources/audio/ThiagoLobato_rank_1/ANMLDog_Small Dog Exterior CU Barks 01_PSE_OC_xk5co-s001.wav
+              
             - type: mushra
             id: trial_random_7
             name: Sound Category 7-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/Pig27-03.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav 
+                C1: configs/resources/audio/Sounds_original/ANMLFarm_Pig Squeals_PSE_OS_zhaMD.wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/ANMLDog_German Shepherd Chomping On Bone And Licking 03_PSE_SR-COM_qYo5a-s001.wav
+                C3: configs/resources/audio/Baseline_rank_1/BELLDoor_Electric Bell on Wood Small Buzzy Door Bell_PSE_OX_KvoAj.wav
+                C4: configs/resources/audio/Chung_rank_1/HMNSnor_Nasal Snorts Heavy Deep Some Throat Action_PSE_OX_Ay3Kg-s002.wav
+                C5: configs/resources/audio/fp4DM_rank_1/ANMLFarm_Animal Pig Tamworth Unknown Grunt 01_PSE_SL-FL_WOwRB.wav
+                C6: configs/resources/audio/JKU_rank_1/HMNSnor_Comedy Snores ECD96a_PSE_BBC-61-166_tDWnC-s008.wav
+                C7: configs/resources/audio/Kumar_rank_1/BIRDSong_Peregrine Falcon 9004_PSE_BBC-NAT_unDzf-s008.wav
+                C8: configs/resources/audio/PassionLab_rank_1/GUNAuto_M134 Minigun Machine Gun Gunshot 268 07 M2_PSE_KCGP_WwCZv-s001.wav
+                C9: configs/resources/audio/ThiagoLobato_rank_1/ANMLFarm_Domestic Pig MDG 71139_PSE_BBC-NAT_o9DqB.wav
+
+
+
+
             - type: mushra
             id: trial_random_8
             name: Sound Category 8-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/Snoring10-01.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav  
+                C1: configs/resources/audio/Sounds_original/Snoring_french_bulldog.wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/ANMLDog_German Shepherd Chomping On Bone And Licking 03_PSE_SR-COM_qYo5a-s001.wav
+                C3: configs/resources/audio/Chung_rank_1/ANMLFarm_Animal Pig Tamworth Hamish Grunt Sequence12_PSE_SL-FL_Cx7yo.wav
+                C4: configs/resources/audio/fp4DM_rank_1/ANMLFarm_Animal Pig Tamworth Unknown Grunt Sequence01_PSE_SL-FL_Pa8hN.wav
+                C5: configs/resources/audio/JKU_rank_1/FEETHmn_Walking on Carpeted Floor Slow Interior CU_PSE_SMV1_KYN1w-s006.wav
+                C6: configs/resources/audio/Kumar_rank_1/ANMLDog_Pit Bull Dog Sloppy Eating Snorts Breathing_PSE_OC_4HVK6-s005.wav
+                C7: configs/resources/audio/PassionLab_rank_1/ANMLFarm_Low Pig Grunts_PSE_KCV3_VNBTM.wav
+                C8: configs/resources/audio/ThiagoLobato_rank_1/ANMLFarm_Domestic Pig MDG 71139 multi 03_PSE_RAN_ce8K2.wav
+
+
             - type: mushra
             id: trial_random_9
             name: Sound Category 9-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/CarHorn11-03.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav  
+                C1: configs/resources/audio/Sounds_original/Car Horn.wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/VEHHorn_Car Horn_PSE_BW-BD3_wag0n.wav
+                C3: configs/resources/audio/Chung_rank_1/THUN_Lightning Crack Series Electric Buzz Crackle 03_PSE_SMV1_FMDws-s006.wav
+                C4: configs/resources/audio/fp4DM_rank_1/VEHHorn_Car Honda Civic 2003 Ext Horn 03_PSE_SR-COM_kixMD.wav
+                C5: configs/resources/audio/JKU_rank_1/VEHHorn_Cars Horns ECD5b_PSE_BBC-1-60_xoDYv.wav
+                C6: configs/resources/audio/Kumar_rank_1/VEHHorn_Car Horn_PSE_BW-BD3HL_s8JKX.wav
+                C7: configs/resources/audio/PassionLab_rank_1/VEHHorn_Horn Various Toots 04_PSE_CLACK_PJesI.wav
+                C8: configs/resources/audio/ThiagoLobato_rank_1/VEHHorn_1978 VW Rabbit Diesel Horn Blasts Honks_PSE_KCVV2_np9Z3.wav
           - type: mushra
             id: trial_random_10
             name: Sound Category 10-
