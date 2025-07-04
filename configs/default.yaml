@@ -67,25 +67,38 @@ pages:
             name: Sound Category 3-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/SwordShing20-02.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav 
+                C1: configs/resources/audio/Sounds_original/WEAPSwrd_Sword Broad Hits Hard 1_PSE_BR-C_I5QP9(2).wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/BELLDoor_Doorbell Dingdong 03_PSE_CLACK_hCjcf.wav
+                C3: configs/resources/audio/Baseline_rank_1/BELLDoor_Doorbell 01_PSE_SR-COM_YM12B.wav
+                C4: configs/resources/audio/Chung_rank_1/VEHHorn_Truck Gmc Savana Horn Long 2_PSE_BR-C_ExJSM.wav
+                C5: configs/resources/audio/fp4DM_rank_1/TOONBoing_Boing 01_PSE_SR-COM_SPyLp.wav
+                C6: configs/resources/audio/JKU_rank_1/WEAPSwrd_Sword Broad Hits Hard 3_PSE_BR-C_rVIP9-s004.wav
+                C7: configs/resources/audio/Kumar_rank_1/VEHHorn_Car Horn_PSE_BW-BD3HL_s8JKX.wav
+                C8: configs/resources/audio/PassionLab_rank_1/BELLDoor_Doorbell House Ding Dong Ringing Decay 02_PSE_KCV1_UJbLo-s001.wav
+                C9: configs/resources/audio/ThiagoLobato_rank_1/BELLDoor_Doorbell Distant with Buzz Various Versions 01_PSE_OCX_PXbfN-s002.wav
           - type: mushra
             id: trial_random_4
             name: Sound Category 4-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/Scratch15-01.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav   
+                C1: configs/resources/audio/Sounds_original/Scratching(2).wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/DESTRCrsh_Crash Mix_PSE_BW-BD3_9bJMQ.wav
+                C3: 
+                C4: configs/resources/audio/Chung_rank_1/THUN_Lightning Crack Series Electric Buzz Crackle 03_PSE_SMV1_FMDws-s006.wav
+                C5: configs/resources/audio/fp4DM_rank_1/THUN_Lightning Crack Series Electric Buzz Crackle 04_PSE_SMV1_ediXn-s004.wav
+                C6: configs/resources/audio/JKU_rank_1/THUN_Thunder Distort 01_PSE_CLACK_pJuVw-s002.wav 
+                C7: configs/resources/audio/Kumar_rank_1/FEETHors_Horses Walk Through Pond with Human Footsteps_PSE_OC_aZ3Aq-s001.wav
+                C8: configs/resources/audio/PassionLab_rank_1/GUNAuto_Minigun Metallic Reflections_PSE_OS_0aJ93-s001.wav
+                C9: configs/resources/audio/ThiagoLobato_rank_1/RAIN_Heavy Rain Splatter on Concrete Water Hose Sizzling_PSE_RN_d9mEB-s001.wav
+              
           - type: mushra
             id: trial_random_5
             name: Sound Category 5-
