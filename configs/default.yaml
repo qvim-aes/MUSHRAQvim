@@ -195,78 +195,122 @@ pages:
                 C6: configs/resources/audio/Kumar_rank_1/VEHHorn_Car Horn_PSE_BW-BD3HL_s8JKX.wav
                 C7: configs/resources/audio/PassionLab_rank_1/VEHHorn_Horn Various Toots 04_PSE_CLACK_PJesI.wav
                 C8: configs/resources/audio/ThiagoLobato_rank_1/VEHHorn_1978 VW Rabbit Diesel Horn Blasts Honks_PSE_KCVV2_np9Z3.wav
+
+
           - type: mushra
             id: trial_random_10
             name: Sound Category 10-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/Rain12-01.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav     
+                C1: configs/resources/audio/Sounds_original/Raining in Bangkok 2 June 2018.wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/THUN_Designed Vintage Lightning Long_PSE_ANI2_dYJV8-s005.wav
+                C3: configs/resources/audio/Chung_rank_1/PAPRRip_Rip Paper_PSE_OE_mgpUB-s004.wav
+                C4: configs/resources/audio/fp4DM_rank_1/PAPRRip_Paper Sheet Screw Up_PSE_SL-FL_5yIzc.wav
+                C5: configs/resources/audio/JKU_rank_1/DESTRCrsh_Crash Mix_PSE_BW-BD3_9bJMQ.wav
+                C6: configs/resources/audio/Kumar_rank_1/GLASBrk_Glass Break Various Size Crashes Shards Fall 02_PSE_OCX_lerXx-s001.wav
+                C7: configs/resources/audio/PassionLab_rank_1/THUN_Crackle Thunder_PSE_OE_Ru0zC-s001.wav
+                C8: configs/resources/audio/ThiagoLobato_rank_1/RAIN_Rain City_PSE_BW-BD3HL_lmVx4-s008.wav
+
+
           - type: mushra
             id: trial_random_11
             name: Sound Category 11-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/Thunder6-02.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav 
+                C1: configs/resources/audio/Sounds_original/THUN_Thunder Rumble Rolls No Rain_PSE_BR-C_0eBgn(4).wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/PLASFric_Plastic Wrap Crumple_PSE_BW-BD3HL_9UcEy.wav
+                C3: configs/resources/audio/Chung_rank_1/FEETHmn_Dog Paws Short Movements Concrete_PSE_FTS_NFpvj-s001.wav
+                C4: configs/resources/audio/fp4DM_rank_1/FEETHmn_Boots Steady Walk Dirt and Grass_PSE_FTS_dweq6-s002.wav
+                C5: configs/resources/audio/JKU_rank_1/THUN_Thunder Distant Stereo 07_PSE_SL-FL_fDJAm-s001.wav
+                C6: configs/resources/audio/Kumar_rank_1/BIRDSong_Whitehead Cucall 42053_PSE_BBC-NAT_wVU3j-s007.wav
+                C7: configs/resources/audio/PassionLab_rank_1/BIRDSong_Jackdaw Calls Sel 85342_PSE_BBC-NAT_LxucH-s002.wav
+                C8: configs/resources/audio/ThiagoLobato_rank_1/RAIN_Weather Rain EC1018Cc_PSE_BBC-HIS_WVfNU-s004.wav
+
+
           - type: mushra
             id: trial_random_12
             name: Sound Category 12-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/Spring35-01.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav   
+                C1: configs/resources/audio/Sounds_original/WHSH_SFX Flash Spring Fling 1_PSE_BR-C_O4GVm.wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/WEAPWhip_Whip Whoosh_PSE_BW-BD3_NYFWo.wav
+                C3: configs/resources/audio/Baseline_rank_1/CLOTHRip_Cloth Tear Short 01_PSE_SR-COM_dbacp.wav
+                C4: configs/resources/audio/Chung_rank_1/WEAPSwrd_Sword Whip_PSE_BW-BD3_P6eF2.wav
+                C5: configs/resources/audio/fp4DM_rank_1/WEAPSwrd_Sword Whip_PSE_BW-BD3_HmVrv.wav
+                C6: configs/resources/audio/JKU_rank_1/ANMLDog_Maltese 2D 7_PSE_BBC-1-60_ih8eK.wav
+                C7: configs/resources/audio/Kumar_rank_1/BIRDSong_Bird Squawk_PSE_BW-BD3HL_YwUpD.wav
+                C8: configs/resources/audio/PassionLab_rank_1/WEAPWhip_Whipcrack Outdoors 09_PSE_CLACK_KlO3v.wav
+                C9: configs/resources/audio/ThiagoLobato_rank_1/WEAPWhip_Leather Whip Hits Crack Snap_PSE_SMV1_k4AwD-s002.wav
+
+
           - type: mushra
             id: trial_random_13
             name: Sound Category 13-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/BreakingGlass17-02.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav  
+                C1: configs/resources/audio/Sounds_original/Breaking_laptop drop1.wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/WEAPSwrd_Sword Hits Metallic Impacts Ringing Clanks_PSE_OW_FLNze-s001.wav
+                C3: configs/resources/audio/Baseline_rank_1/GUNAuto_Gunshot Submachine Gun_PSE_BW-BD3_mS5Ci.wav
+                C4: configs/resources/audio/Chung_rank_1/FEETHmn_Boots Walk Gravel Gritty_PSE_FTS_ONYJt-s003.wav
+                C5: configs/resources/audio/fp4DM_rank_1/GUNAuto_Gunshot Submachine Gun_PSE_BW-BD3_nYQtm.wav
+                C6: configs/resources/audio/JKU_rank_1/DESTRCrsh_Impacts Simple 347_PSE_SB-JI_6YAly-s004.wav
+                C7: configs/resources/audio/Kumar_rank_1/ANMLDog_Dog Door Bumps Slides Multiple Hits_PSE_OC_5nuHo-s003.wav
+                C8: configs/resources/audio/PassionLab_rank_1/FEETHmn_Jump Shallow Snow Stomp_PSE_GEN3_JgeBt-s001.wav
+                C9: configs/resources/audio/ThiagoLobato_rank_1/FEETHmn_Leaves Footstep Single Heavy 043_PSE_WPA_bPVwr-s002.wav
+
+
           - type: mushra
             id: trial_random_14
             name: Sound Category 14-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/Crumple29-02.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav        
+                C1: configs/resources/audio/Sounds_original/PAPRHndl_Wrapper Crumple_PSE_BW-BD3HL_vnw5s.wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/PAPRRip_Manila Envelope Open_PSE_BW-BD3_fFgT6.wav
+                C3: configs/resources/audio/Baseline_rank_1/PAPRRip_Scissors Cut 04_PSE_SR-COM_PdacU.wav
+                C4: configs/resources/audio/Chung_rank_1/FOLYProp_Packaging Tape Crumple_PSE_BW-BD3HL_n3FC4.wav
+                C5: configs/resources/audio/fp4DM_rank_1/PAPRHndl_Paper Crumple_PSE_BW-BD3_K3pcY.wav
+                C6: configs/resources/audio/JKU_rank_1/ANMLDog_BullHeavy Breathing Very Fast Panting Sniffing 056 a_PSE_K9_LIRPC-s003.wav
+                C7: configs/resources/audio/Kumar_rank_1/PAPRHndl_Large Sheet of Flip Chart Paper Crumple_PSE_GEN6_IEmfX.wav
+                C8: configs/resources/audio/PassionLab_rank_1/PAPRHndl_Paper Bag Remove Object_PSE_BW-BD3HL_eB9cf.wav
+                C9: configs/resources/audio/ThiagoLobato_rank_1/PAPRRip_Paper Sheet Wrapping Rolled Tightly01_PSE_SL-FL_RMEL5.wav 
+
+
           - type: mushra
             id: trial_random_15
             name: Sound Category 15-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/SnakeHissing40-01.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav  
+                C1: configs/resources/audio/Sounds_original/SnakeHiss.wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/ANMLRept_Snake Hiss_PSE_BW-BD3HL_3gWEk.wav
+                C3: configs/resources/audio/Baseline_rank_1/ANMLRept_Alligator Hiss_PSE_BW-BD3HL_xXS7M.wav
+                C4: configs/resources/audio/Chung_rank_1/ANMLRept_Snake Hiss_PSE_BW-BD3_ot8zD.wav
+                C5: configs/resources/audio/JKU_rank_1/ANMLRept_Alligator Hiss_PSE_BW-BD3HL_OuoqV.wav
+                C6: configs/resources/audio/Kumar_rank_1/BIRDSong_Canyon Wren MCso 62129_PSE_BBC-NAT_l9Bnq-s001.wav
+                
           - type: mushra
             id: trial_random_16
             name: Sound Category 16-
@@ -276,7 +320,7 @@ pages:
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
+                C1: 
                 C2: configs/resources/audio/mono_c2.wav
                 C3: configs/resources/audio/mono_c3.wav
           - type: mushra
