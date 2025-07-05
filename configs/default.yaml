@@ -26,7 +26,7 @@ pages:
           C1: configs/resources/audio/mono_c1.wav
           C2: configs/resources/audio/mono_c2.wav
           C3: configs/resources/audio/mono_c3.wav
-    - random
+    
     - type: mushra
       id: trial_random_1
       name: Sound Category 1 - 
