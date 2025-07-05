@@ -27,7 +27,25 @@ pages:
           C2: configs/resources/audio/mono_c2.wav
           C3: configs/resources/audio/mono_c3.wav
     
-   
+    - type: mushra
+      id: trial_random_1
+      name: Sound Category 1 - 
+      content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
+      enableLooping: true 
+      reference: configs/resources/audio/Queries_Subjective/Birds19-03.wav
+      createAnchor35: false
+      createAnchor70: false
+      stimuli:
+          C1: configs/resources/audio/Sounds_original/budgie_chirp1_bird.wav
+          C2: configs/resources/audio/AudioAlchemyrank_1/BIRDSong_Arabian Babbler 18139_PSE_BBC-NAT_aSjC7-s003.wav
+          C3: configs/resources/audio/Baseline_rank_1/BIRDSong_Scrub Jay CUcall 56160_PSE_BBC-NAT_iRXPm-s002.wav 
+          C4: configs/resources/audio/Chung_rank_1/CLOTHRip_Cloth Rip Linen_PSE_OE_HhgFs-s003.wav
+          C5: configs/resources/audio/fp4DM_rank_1/CLOTHRip_Burlap Rip Clusters of Short Tears Cloth_PSE_OX_ymKa6-s004.wav
+          C6: configs/resources/audio/JKU_rank_1/BIRDSong_House Sparrow An 62238_PSE_BBC-NAT_4G0QI-s005.wav
+          C7: configs/resources/audio/Kumar_rank_1/FEETHors_Horse Eats Chewing Short Various Versions_PSE_OX_CA375-s003.wav
+          C8: configs/resources/audio/PassionLab_rank_1/WEAPSwrd_Hits Single Resonant Ring_PSE_GEN_5G4bU-s003.wav
+          C9: configs/resources/audio/ThiagoLobato_rank_1/FEETHmn_Palm Frond Footstep Single 074_PSE_WPA_OTC4L-s001.wav       
+        
     
     - type: finish
       name: Thank you
