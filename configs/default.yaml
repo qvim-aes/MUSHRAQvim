@@ -316,61 +316,95 @@ pages:
             name: Sound Category 16-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/Rip9-02.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: 
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav
+                C1: configs/resources/audio/Sounds_original/Rip_FOLYProp_Cord Package Remove_PSE_BW-BD3HL_n7RXJ.wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/CLOTHRip_Cloth Rip_PSE_BW-BD3HL_ahXO0.wav
+                C3: configs/resources/audio/Baseline_rank_1/CLOTHRip_Cloth Rip_PSE_BW-BD3HL_76hmS.wav
+                C4: configs/resources/audio/Chung_rank_1/PAPRRip_Paper Rip_PSE_BW-BD3HL_54Lqp.wav
+                C5: configs/resources/audio/fp4DM_rank_1/CLOTHRip_Cloth Rips Tearing Very Thin Material_PSE_OX_glis0-s006.wav
+                C6: configs/resources/audio/JKU_rank_1/WEAPWhip_Alien Whips Whip Like Synth Bursts Swish 07_PSE_OCX_hZ2Yu-s002.wav
+                C7: configs/resources/audio/Kumar_rank_1/WEAPSwrd_Sword Scrape_PSE_BW-BD3_hGVpb.wav
+                C8: configs/resources/audio/PassionLab_rank_1/WEAPSwrd_Fight Impacts Huge Natural Reverb_PSE_GEN_qvbcC-s001.wav
+                C9: configs/resources/audio/ThiagoLobato_rank_1/WEAPSwrd_Sword Archer Schwings Fast Lite Scrapes 1_PSE_BR-C_Hk5xJ-s006.wav
+
           - type: mushra
             id: trial_random_17
             name: Sound Category 17-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/Doorbell30-01.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav 
+                C1: configs/resources/audio/Sounds_original/DoorBellVarious2.wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/BIRDSong_Hobby Flightcall 19196_PSE_BBC-NAT_HFmuf-s006.wav
+                C3: configs/resources/audio/Baseline_rank_1/BIRDSong_Peregrine Falcon 9004_PSE_BBC-NAT_unDzf-s011.wav
+                C4: configs/resources/audio/Chung_rank_1/HMNSnor_Comedy Snores ECD96a_PSE_BBC-61-166_tDWnC-s003.wav
+                C5: configs/resources/audio/fp4DM_rank_1/HMNSnor_Comedy Snores ECD96a_PSE_BBC-61-166_tDWnC-s005.wav
+                C6: configs/resources/audio/JKU_rank_1/GUNAuto_Gunshot Machine Gun_PSE_BW-BD3HL_mqeLr.wav
+                C7: configs/resources/audio/Kumar_rank_1/GUNAuto_M60E4 Machine Gun Bursts of Rapid Fire_PSE_OW_F5lj3.wav
+                C8: configs/resources/audio/PassionLab_rank_1/GUNAuto_Guns Machine Guns EC146Aa_PSE_BBC-HIS_ZdnbW.wav
+                C9: configs/resources/audio/ThiagoLobato_rank_1/GUNAuto_M2 Browning Belt Fed Machine Gun Gunshot 270 62 ST1_PSE_KCGP_fWsFa.wav
+
           - type: mushra
             id: trial_random_18
             name: Sound Category 18-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/Smash7-02.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav  
+                C1: configs/resources/audio/Sounds_original/Smash_S38-23 Huge skid and good crash bits.wav
+                C2: configs/resources/audio/Baseline_rank_1/FEETAnml_Creature Footsteps Spider Clacky Walking_PSE_OX_v6DkB-s002.wav
+                C3: configs/resources/audio/Chung_rank_1/FEETAnml_Animal Footsteps_PSE_OE_9Glq6-s005.wav
+                C4: configs/resources/audio/fp4DM_rank_1/GUNAuto_Glock 18 Full Auto Pistol Gunshots 02 13 M1_PSE_KCGP_G8OS2-s003.wav
+                C5: configs/resources/audio/JKU_rank_1/FEETHmn_HMS Belfast Group Running Footsteps Pass Bys 01 ST1_PSE_KCWC_V65Ii-s005.wav
+                C6: configs/resources/audio/Kumar_rank_1/FEETHmn_Slippers Short Walk Hurried Concrete_PSE_FTS_uxRfZ-s002.wav
+                C7: configs/resources/audio/PassionLab_rank_1/FEETHmn_HMS Belfast Ship Fast Metal Footsteps 01 ST1_PSE_KCWC_Q8aTf-s004.wav
+                C8: configs/resources/audio/ThiagoLobato_rank_1/FEETHmn_Hard Footsteps Stop CU_PSE_KCV2_5BIPs-s004.wav
+
+
+
           - type: mushra
             id: trial_random_19
             name: Sound Category 19-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/Grunts34-01.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav 
+                C1: configs/resources/audio/Sounds_original/CREABeast_Monster Struggle Grunt 126_PSE_SB-SS2_uTrtF.wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/CREABeast_Monster Pig Grunt_PSE_BW-BD3HL_nOMdL.wav
+                C3: configs/resources/audio/Chung_rank_1/CREABeast_Monster Struggle Grunt 124_PSE_SB-SS2_DSIUh.wav
+                C4: configs/resources/audio/fp4DM_rank_1/CREABeast_Monster Struggle Grunt 136_PSE_SB-SS2_kWXvS.wav
+                C5: configs/resources/audio/JKU_rank_1/HMNSnor_Comedy Snores ECD96a_PSE_BBC-61-166_tDWnC-s008.wav
+                C6: configs/resources/audio/Kumar_rank_1/ANMLFarm_Animal Pig Landrace Edgar Inside Grumble04_PSE_SL-FL_Hpd8Q.wav
+                C7: configs/resources/audio/PassionLab_rank_1/ANMLDog_Doberman Dog Growls Angry Airy at Tail 07_PSE_OC_Ad8FY-s002.wav
+                C8: configs/resources/audio/ThiagoLobato_rank_1/ANMLDog_Border Collie Grumbling Whining_PSE_GEN_v5ZeR-s003.wav
+
+
           - type: mushra
             id: trial_random_20
             name: Sound Category 20-
             content: Due to randomization, this page will be either the second MUSHRA page or the third MUSHRA page.
             enableLooping: true 
-            reference: configs/resources/audio/mono_ref.wav
+            reference: configs/resources/audio/Queries_Subjective/Footsteps10-01.wav
             createAnchor35: false
             createAnchor70: false
             stimuli:
-                C1: configs/resources/audio/mono_c1.wav
-                C2: configs/resources/audio/mono_c2.wav
-                C3: configs/resources/audio/mono_c3.wav            
+                C1: configs/resources/audio/Sounds_original/footsteps_walking on concrete.wav
+                C2: configs/resources/audio/AudioAlchemyrank_1/GUNAuto_Gunshot Machine Gun_PSE_BW-BD3_VJkNh.wav
+                C3: configs/resources/audio/Chung_rank_1/GUNAuto_Gunshot Machine Gun_PSE_BW-BD3_s4PXr.wav
+                C4: configs/resources/audio/fp4DM_rank_1/METLTonl_Mechanical Suspension Metal Spring Wobble Short03_PSE_SL-FL_wAB4G.wav
+                C5: configs/resources/audio/JKU_rank_1/GUNAuto_Glock 18 Full Auto Pistol Gunshots 02 46 M1_PSE_KCGP_uDZPT-s007.wav
+                C6: configs/resources/audio/Kumar_rank_1/FEETHmn_Running through Shallow Snow_PSE_GEN3_vzBwA-s002.wav
+                C7: configs/resources/audio/PassionLab_rank_1/GLASBrk_Fluorescent Tube Brake Crack Tonal Hits Shards 01_PSE_OCX_5UF8r-s008.wav
+                C8: configs/resources/audio/ThiagoLobato_rank_1/GLASBrk_Beer Bottle_PSE_OE_Q241t-s002.wav
     - type: finish
       name: Thank you
       content: Thank you for attending!
