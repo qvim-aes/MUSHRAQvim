@@ -37,14 +37,14 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/budgie_chirp1_bird.wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/BIRDSong_Arabian Babbler 18139_PSE_BBC-NAT_aSjC7-s003.wav
-          C3: configs/resources/audio/Baseline_rank_1/BIRDSong_Scrub Jay CUcall 56160_PSE_BBC-NAT_iRXPm-s002.wav 
-          C4: configs/resources/audio/Chung_rank_1/CLOTHRip_Cloth Rip Linen_PSE_OE_HhgFs-s003.wav
-          C5: configs/resources/audio/fp4DM_rank_1/CLOTHRip_Burlap Rip Clusters of Short Tears Cloth_PSE_OX_ymKa6-s004.wav
-          C6: configs/resources/audio/JKU_rank_1/BIRDSong_House Sparrow An 62238_PSE_BBC-NAT_4G0QI-s005.wav
-          C7: configs/resources/audio/Kumar_rank_1/FEETHors_Horse Eats Chewing Short Various Versions_PSE_OX_CA375-s003.wav
-          C8: configs/resources/audio/PassionLab_rank_1/WEAPSwrd_Hits Single Resonant Ring_PSE_GEN_5G4bU-s003.wav
-          C9: configs/resources/audio/ThiagoLobato_rank_1/FEETHmn_Palm Frond Footstep Single 074_PSE_WPA_OTC4L-s001.wav       
+          C2: configs/resources/audio/Model1_rank_1/BIRDSong_Arabian Babbler 18139_PSE_BBC-NAT_aSjC7-s003.wav
+          C3: configs/resources/audio/Model2_rank_1/BIRDSong_Scrub Jay CUcall 56160_PSE_BBC-NAT_iRXPm-s002.wav 
+          C4: configs/resources/audio/Model3_rank_1/CLOTHRip_Cloth Rip Linen_PSE_OE_HhgFs-s003.wav
+          C5: configs/resources/audio/Model4_rank_1/CLOTHRip_Burlap Rip Clusters of Short Tears Cloth_PSE_OX_ymKa6-s004.wav
+          C6: configs/resources/audio/Model5_rank_1/BIRDSong_House Sparrow An 62238_PSE_BBC-NAT_4G0QI-s005.wav
+          C7: configs/resources/audio/Model6_rank_1/FEETHors_Horse Eats Chewing Short Various Versions_PSE_OX_CA375-s003.wav
+          C8: configs/resources/audio/Model7_rank_1/WEAPSwrd_Hits Single Resonant Ring_PSE_GEN_5G4bU-s003.wav
+          C9: configs/resources/audio/Model8_rank_1/FEETHmn_Palm Frond Footstep Single 074_PSE_WPA_OTC4L-s001.wav       
         
     - type: mushra
       id: trial_random_2
@@ -56,14 +56,14 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/Machine Gun(2).wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/GUNAuto_M1919 Browning Machine Gun Gunshot 02 30 M3_PSE_KCGP_t7iNZ-s003.wav
-          C3: configs/resources/audio/Baseline_rank_1/GUNAuto_Gunshot Submachine Gun_PSE_BW-BD3_mS5Ci.wav
-          C4: configs/resources/audio/Chung_rank_1/GUNAuto_Warfare Rifles_PSE_OE_P247G-s001.wav
-          C5: configs/resources/audio/fp4DM_rank_1/GUNAuto_AK47 Machine Gun Bullet Buzz By Ricochet Burst_PSE_OW_vi8ej-s001.wav
-          C6: configs/resources/audio/JKU_rank_1/GUNAuto_M2 Browning Belt Fed Machine Gun Gunshot 270 38 M1_PSE_KCGP_5EcWD-s004.wav
-          C7: configs/resources/audio/Kumar_rank_1/FEETHors_Horse Walk Approach Pass By on Pavement Away_PSE_OC_zb7DQ-s002.wav
-          C8: configs/resources/audio/PassionLab_rank_1/GUNAuto_Gunshot Machine Gun_PSE_BW-BD3_hQ8JU.wav
-          C9: configs/resources/audio/ThiagoLobato_rank_1/GUNAuto_Thompson Submachine Gun Full Automatic Shots_PSE_TGN_g1wQq.wav
+          C2: configs/resources/audio/Model1_rank_1/GUNAuto_M1919 Browning Machine Gun Gunshot 02 30 M3_PSE_KCGP_t7iNZ-s003.wav
+          C3: configs/resources/audio/Model2_rank_1/GUNAuto_Gunshot Submachine Gun_PSE_BW-BD3_mS5Ci.wav
+          C4: configs/resources/audio/Model3_rank_1/GUNAuto_Warfare Rifles_PSE_OE_P247G-s001.wav
+          C5: configs/resources/audio/Model4_rank_1/GUNAuto_AK47 Machine Gun Bullet Buzz By Ricochet Burst_PSE_OW_vi8ej-s001.wav
+          C6: configs/resources/audio/Model5_rank_1/GUNAuto_M2 Browning Belt Fed Machine Gun Gunshot 270 38 M1_PSE_KCGP_5EcWD-s004.wav
+          C7: configs/resources/audio/Model6_rank_1/FEETHors_Horse Walk Approach Pass By on Pavement Away_PSE_OC_zb7DQ-s002.wav
+          C8: configs/resources/audio/Model7_rank_1/GUNAuto_Gunshot Machine Gun_PSE_BW-BD3_hQ8JU.wav
+          C9: configs/resources/audio/Model8_rank_1/GUNAuto_Thompson Submachine Gun Full Automatic Shots_PSE_TGN_g1wQq.wav
       
     - type: mushra
       id: trial_random_3
@@ -75,14 +75,14 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/WEAPSwrd_Sword Broad Hits Hard 1_PSE_BR-C_I5QP9(2).wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/BELLDoor_Doorbell Dingdong 03_PSE_CLACK_hCjcf.wav
-          C3: configs/resources/audio/Baseline_rank_1/BELLDoor_Doorbell 01_PSE_SR-COM_YM12B.wav
-          C4: configs/resources/audio/Chung_rank_1/VEHHorn_Truck Gmc Savana Horn Long 2_PSE_BR-C_ExJSM.wav
-          C5: configs/resources/audio/fp4DM_rank_1/TOONBoing_Boing 01_PSE_SR-COM_SPyLp.wav
-          C6: configs/resources/audio/JKU_rank_1/WEAPSwrd_Sword Broad Hits Hard 3_PSE_BR-C_rVIP9-s004.wav
-          C7: configs/resources/audio/Kumar_rank_1/VEHHorn_Car Horn_PSE_BW-BD3HL_s8JKX.wav
-          C8: configs/resources/audio/PassionLab_rank_1/BELLDoor_Doorbell House Ding Dong Ringing Decay 02_PSE_KCV1_UJbLo-s001.wav
-          C9: configs/resources/audio/ThiagoLobato_rank_1/BELLDoor_Doorbell Distant with Buzz Various Versions 01_PSE_OCX_PXbfN-s002.wav
+          C2: configs/resources/audio/Model1_rank_1/BELLDoor_Doorbell Dingdong 03_PSE_CLACK_hCjcf.wav
+          C3: configs/resources/audio/Model2_rank_1/BELLDoor_Doorbell 01_PSE_SR-COM_YM12B.wav
+          C4: configs/resources/audio/Model3_rank_1/VEHHorn_Truck Gmc Savana Horn Long 2_PSE_BR-C_ExJSM.wav
+          C5: configs/resources/audio/Model4_rank_1/TOONBoing_Boing 01_PSE_SR-COM_SPyLp.wav
+          C6: configs/resources/audio/Model5_rank_1/WEAPSwrd_Sword Broad Hits Hard 3_PSE_BR-C_rVIP9-s004.wav
+          C7: configs/resources/audio/Model6_rank_1/VEHHorn_Car Horn_PSE_BW-BD3HL_s8JKX.wav
+          C8: configs/resources/audio/Model7_rank_1/BELLDoor_Doorbell House Ding Dong Ringing Decay 02_PSE_KCV1_UJbLo-s001.wav
+          C9: configs/resources/audio/Model8_rank_1/BELLDoor_Doorbell Distant with Buzz Various Versions 01_PSE_OCX_PXbfN-s002.wav
     - type: mushra
       id: trial_random_4
       name: Sound Category 4-
@@ -93,14 +93,14 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/Scratching(2).wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/DESTRCrsh_Crash Mix_PSE_BW-BD3_9bJMQ.wav
-          C3: configs/resources/audio/Baseline_rank_1/THUN_Thunder Medium Heavy Rain01_PSE_SL-FL_PkN7J-s002.wav
-          C4: configs/resources/audio/Chung_rank_1/THUN_Lightning Crack Series Electric Buzz Crackle 03_PSE_SMV1_FMDws-s006.wav
-          C5: configs/resources/audio/fp4DM_rank_1/THUN_Lightning Crack Series Electric Buzz Crackle 04_PSE_SMV1_ediXn-s004.wav
-          C6: configs/resources/audio/JKU_rank_1/THUN_Thunder Distort 01_PSE_CLACK_pJuVw-s002.wav 
-          C7: configs/resources/audio/Kumar_rank_1/FEETHors_Horses Walk Through Pond with Human Footsteps_PSE_OC_aZ3Aq-s001.wav
-          C8: configs/resources/audio/PassionLab_rank_1/GUNAuto_Minigun Metallic Reflections_PSE_OS_0aJ93-s001.wav
-          C9: configs/resources/audio/ThiagoLobato_rank_1/RAIN_Heavy Rain Splatter on Concrete Water Hose Sizzling_PSE_RN_d9mEB-s001.wav
+          C2: configs/resources/audio/Model1_rank_1/DESTRCrsh_Crash Mix_PSE_BW-BD3_9bJMQ.wav
+          C3: configs/resources/audio/Model2_rank_1/THUN_Thunder Medium Heavy Rain01_PSE_SL-FL_PkN7J-s002.wav
+          C4: configs/resources/audio/Model3_rank_1/THUN_Lightning Crack Series Electric Buzz Crackle 03_PSE_SMV1_FMDws-s006.wav
+          C5: configs/resources/audio/Model4_rank_1/THUN_Lightning Crack Series Electric Buzz Crackle 04_PSE_SMV1_ediXn-s004.wav
+          C6: configs/resources/audio/Model5_rank_1/THUN_Thunder Distort 01_PSE_CLACK_pJuVw-s002.wav 
+          C7: configs/resources/audio/Model6_rank_1/FEETHors_Horses Walk Through Pond with Human Footsteps_PSE_OC_aZ3Aq-s001.wav
+          C8: configs/resources/audio/Model7_rank_1/GUNAuto_Minigun Metallic Reflections_PSE_OS_0aJ93-s001.wav
+          C9: configs/resources/audio/Model8_rank_1/RAIN_Heavy Rain Splatter on Concrete Water Hose Sizzling_PSE_RN_d9mEB-s001.wav
         
     - type: mushra
       id: trial_random_5
@@ -112,13 +112,13 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/Whip32.wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/ANMLDog_Dog Bark Cutsie 08_PSE_SR-COM_5Y3iU.wav
-          C3: configs/resources/audio/Baseline_rank_1/COMPhono_Record Scratch 09_PSE_SR-COM_TBJuF.wav
-          C4: configs/resources/audio/fp4DM_rank_1/CLOTHRip_Cloth Rips Tearing Very Thin Material_PSE_OX_glis0-s006.wav 
-          C5: configs/resources/audio/JKU_rank_1/WEAPWhip_Wolf Whips Whip Cracks 15_PSE_OCX_1bSX4-s001.wav 
-          C6: configs/resources/audio/Kumar_rank_1/WEAPSwrd_Sword Whip_PSE_BW-BD3_B25Kl.wav
-          C7: configs/resources/audio/PassionLab_rank_1/GUNAuto_AK47 Underwater Machine Gun Metallic Impacts_PSE_OW_cXsiW-s002.wav
-          C8: configs/resources/audio/ThiagoLobato_rank_1/WEAPWhip_Buggy Whip Individual Swishes_PSE_OX_lR7bh-s003.wav
+          C2: configs/resources/audio/Model1_rank_1/ANMLDog_Dog Bark Cutsie 08_PSE_SR-COM_5Y3iU.wav
+          C3: configs/resources/audio/Model2_rank_1/COMPhono_Record Scratch 09_PSE_SR-COM_TBJuF.wav
+          C4: configs/resources/audio/Model4_rank_1/CLOTHRip_Cloth Rips Tearing Very Thin Material_PSE_OX_glis0-s006.wav 
+          C5: configs/resources/audio/Model5_rank_1/WEAPWhip_Wolf Whips Whip Cracks 15_PSE_OCX_1bSX4-s001.wav 
+          C6: configs/resources/audio/Model6_rank_1/WEAPSwrd_Sword Whip_PSE_BW-BD3_B25Kl.wav
+          C7: configs/resources/audio/Model7_rank_1/GUNAuto_AK47 Underwater Machine Gun Metallic Impacts_PSE_OW_cXsiW-s002.wav
+          C8: configs/resources/audio/Model8_rank_1/WEAPWhip_Buggy Whip Individual Swishes_PSE_OX_lR7bh-s003.wav
 
 
     - type: mushra
@@ -131,14 +131,14 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/ANMLDog_Several Dogs Barking CU and Distant_PSE_GEN3_2mHdW.wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/ANMLDog_Animal Dog Beagle Female Bark Close05_PSE_SL-FL_yZAPo.wav
-          C3: configs/resources/audio/Baseline_rank_1/ANMLDog_Dog Bark Nice Woof 04_PSE_SR-COM_NJwsz.wav
-          C4: configs/resources/audio/Chung_rank_1/ANMLDog_Dog Yaps Small Whiny Barking Bursts 03_PSE_OC_w5aeA-s002.wav
-          C5: configs/resources/audio/fp4DM_rank_1/ANMLDog_Dog Cairn Terrier Barks Growls Sneeze_PSE_OC_Qf5pt-s009.wav
-          C6: configs/resources/audio/JKU_rank_1/ANMLDog_German Shepherd Squeaky Barks Panting Whimpers_PSE_OC_udmJy-s005.wav
-          C7: configs/resources/audio/Kumar_rank_1/WEAPWhip_Buggy Whip Individual Swishes_PSE_OX_lR7bh-s001.wav
-          C8: configs/resources/audio/PassionLab_rank_1/ANMLDog_Dog Cocker Spaniel Barks Yelps Whimpering_PSE_OC_MHkE8-s004.wav
-          C9: configs/resources/audio/ThiagoLobato_rank_1/ANMLDog_Small Dog Exterior CU Barks 01_PSE_OC_xk5co-s001.wav
+          C2: configs/resources/audio/Model1_rank_1/ANMLDog_Animal Dog Beagle Female Bark Close05_PSE_SL-FL_yZAPo.wav
+          C3: configs/resources/audio/Model2_rank_1/ANMLDog_Dog Bark Nice Woof 04_PSE_SR-COM_NJwsz.wav
+          C4: configs/resources/audio/Model3_rank_1/ANMLDog_Dog Yaps Small Whiny Barking Bursts 03_PSE_OC_w5aeA-s002.wav
+          C5: configs/resources/audio/Model4_rank_1/ANMLDog_Dog Cairn Terrier Barks Growls Sneeze_PSE_OC_Qf5pt-s009.wav
+          C6: configs/resources/audio/Model5_rank_1/ANMLDog_German Shepherd Squeaky Barks Panting Whimpers_PSE_OC_udmJy-s005.wav
+          C7: configs/resources/audio/Model6_rank_1/WEAPWhip_Buggy Whip Individual Swishes_PSE_OX_lR7bh-s001.wav
+          C8: configs/resources/audio/Model7_rank_1/ANMLDog_Dog Cocker Spaniel Barks Yelps Whimpering_PSE_OC_MHkE8-s004.wav
+          C9: configs/resources/audio/Model8_rank_1/ANMLDog_Small Dog Exterior CU Barks 01_PSE_OC_xk5co-s001.wav
         
     - type: mushra
       id: trial_random_7
@@ -150,14 +150,14 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/ANMLFarm_Pig Squeals_PSE_OS_zhaMD.wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/ANMLDog_German Shepherd Chomping On Bone And Licking 03_PSE_SR-COM_qYo5a-s001.wav
-          C3: configs/resources/audio/Baseline_rank_1/BELLDoor_Electric Bell on Wood Small Buzzy Door Bell_PSE_OX_KvoAj.wav
-          C4: configs/resources/audio/Chung_rank_1/HMNSnor_Nasal Snorts Heavy Deep Some Throat Action_PSE_OX_Ay3Kg-s002.wav
-          C5: configs/resources/audio/fp4DM_rank_1/ANMLFarm_Animal Pig Tamworth Unknown Grunt 01_PSE_SL-FL_WOwRB.wav
-          C6: configs/resources/audio/JKU_rank_1/HMNSnor_Comedy Snores ECD96a_PSE_BBC-61-166_tDWnC-s008.wav
-          C7: configs/resources/audio/Kumar_rank_1/BIRDSong_Peregrine Falcon 9004_PSE_BBC-NAT_unDzf-s008.wav
-          C8: configs/resources/audio/PassionLab_rank_1/GUNAuto_M134 Minigun Machine Gun Gunshot 268 07 M2_PSE_KCGP_WwCZv-s001.wav
-          C9: configs/resources/audio/ThiagoLobato_rank_1/ANMLFarm_Domestic Pig MDG 71139_PSE_BBC-NAT_o9DqB.wav
+          C2: configs/resources/audio/Model1_rank_1/ANMLDog_German Shepherd Chomping On Bone And Licking 03_PSE_SR-COM_qYo5a-s001.wav
+          C3: configs/resources/audio/Model2_rank_1/BELLDoor_Electric Bell on Wood Small Buzzy Door Bell_PSE_OX_KvoAj.wav
+          C4: configs/resources/audio/Model3_rank_1/HMNSnor_Nasal Snorts Heavy Deep Some Throat Action_PSE_OX_Ay3Kg-s002.wav
+          C5: configs/resources/audio/Model4_rank_1/ANMLFarm_Animal Pig Tamworth Unknown Grunt 01_PSE_SL-FL_WOwRB.wav
+          C6: configs/resources/audio/Model5_rank_1/HMNSnor_Comedy Snores ECD96a_PSE_BBC-61-166_tDWnC-s008.wav
+          C7: configs/resources/audio/Model6_rank_1/BIRDSong_Peregrine Falcon 9004_PSE_BBC-NAT_unDzf-s008.wav
+          C8: configs/resources/audio/Model7_rank_1/GUNAuto_M134 Minigun Machine Gun Gunshot 268 07 M2_PSE_KCGP_WwCZv-s001.wav
+          C9: configs/resources/audio/Model8_rank_1/ANMLFarm_Domestic Pig MDG 71139_PSE_BBC-NAT_o9DqB.wav
 
     - type: mushra
       id: trial_random_8
@@ -169,13 +169,13 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/Snoring_french_bulldog.wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/ANMLDog_German Shepherd Chomping On Bone And Licking 03_PSE_SR-COM_qYo5a-s001.wav
-          C3: configs/resources/audio/Chung_rank_1/ANMLFarm_Animal Pig Tamworth Hamish Grunt Sequence12_PSE_SL-FL_Cx7yo.wav
-          C4: configs/resources/audio/fp4DM_rank_1/ANMLFarm_Animal Pig Tamworth Unknown Grunt Sequence01_PSE_SL-FL_Pa8hN.wav
-          C5: configs/resources/audio/JKU_rank_1/FEETHmn_Walking on Carpeted Floor Slow Interior CU_PSE_SMV1_KYN1w-s006.wav
-          C6: configs/resources/audio/Kumar_rank_1/ANMLDog_Pit Bull Dog Sloppy Eating Snorts Breathing_PSE_OC_4HVK6-s005.wav
-          C7: configs/resources/audio/PassionLab_rank_1/ANMLFarm_Low Pig Grunts_PSE_KCV3_VNBTM.wav
-          C8: configs/resources/audio/ThiagoLobato_rank_1/ANMLFarm_Domestic Pig MDG 71139 multi 03_PSE_RAN_ce8K2.wav
+          C2: configs/resources/audio/Model1_rank_1/ANMLDog_German Shepherd Chomping On Bone And Licking 03_PSE_SR-COM_qYo5a-s001.wav
+          C3: configs/resources/audio/Model3_rank_1/ANMLFarm_Animal Pig Tamworth Hamish Grunt Sequence12_PSE_SL-FL_Cx7yo.wav
+          C4: configs/resources/audio/Model4_rank_1/ANMLFarm_Animal Pig Tamworth Unknown Grunt Sequence01_PSE_SL-FL_Pa8hN.wav
+          C5: configs/resources/audio/Model5_rank_1/FEETHmn_Walking on Carpeted Floor Slow Interior CU_PSE_SMV1_KYN1w-s006.wav
+          C6: configs/resources/audio/Model6_rank_1/ANMLDog_Pit Bull Dog Sloppy Eating Snorts Breathing_PSE_OC_4HVK6-s005.wav
+          C7: configs/resources/audio/Model7_rank_1/ANMLFarm_Low Pig Grunts_PSE_KCV3_VNBTM.wav
+          C8: configs/resources/audio/Model8_rank_1/ANMLFarm_Domestic Pig MDG 71139 multi 03_PSE_RAN_ce8K2.wav
 
 
     - type: mushra
@@ -188,13 +188,13 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/Car Horn.wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/VEHHorn_Car Horn_PSE_BW-BD3_wag0n.wav
-          C3: configs/resources/audio/Chung_rank_1/THUN_Lightning Crack Series Electric Buzz Crackle 03_PSE_SMV1_FMDws-s006.wav
-          C4: configs/resources/audio/fp4DM_rank_1/VEHHorn_Car Honda Civic 2003 Ext Horn 03_PSE_SR-COM_kixMD.wav
-          C5: configs/resources/audio/JKU_rank_1/VEHHorn_Cars Horns ECD5b_PSE_BBC-1-60_xoDYv.wav
-          C6: configs/resources/audio/Kumar_rank_1/VEHHorn_Car Horn_PSE_BW-BD3HL_s8JKX.wav
-          C7: configs/resources/audio/PassionLab_rank_1/VEHHorn_Horn Various Toots 04_PSE_CLACK_PJesI.wav
-          C8: configs/resources/audio/ThiagoLobato_rank_1/VEHHorn_1978 VW Rabbit Diesel Horn Blasts Honks_PSE_KCVV2_np9Z3.wav
+          C2: configs/resources/audio/Model1_rank_1/VEHHorn_Car Horn_PSE_BW-BD3_wag0n.wav
+          C3: configs/resources/audio/Model3_rank_1/THUN_Lightning Crack Series Electric Buzz Crackle 03_PSE_SMV1_FMDws-s006.wav
+          C4: configs/resources/audio/Model4_rank_1/VEHHorn_Car Honda Civic 2003 Ext Horn 03_PSE_SR-COM_kixMD.wav
+          C5: configs/resources/audio/Model5_rank_1/VEHHorn_Cars Horns ECD5b_PSE_BBC-1-60_xoDYv.wav
+          C6: configs/resources/audio/Model6_rank_1/VEHHorn_Car Horn_PSE_BW-BD3HL_s8JKX.wav
+          C7: configs/resources/audio/Model7_rank_1/VEHHorn_Horn Various Toots 04_PSE_CLACK_PJesI.wav
+          C8: configs/resources/audio/Model8_rank_1/VEHHorn_1978 VW Rabbit Diesel Horn Blasts Honks_PSE_KCVV2_np9Z3.wav
 
     - type: mushra
       id: trial_random_10
@@ -206,13 +206,13 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/Raining in Bangkok 2 June 2018.wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/THUN_Designed Vintage Lightning Long_PSE_ANI2_dYJV8-s005.wav
-          C3: configs/resources/audio/Chung_rank_1/PAPRRip_Rip Paper_PSE_OE_mgpUB-s004.wav
-          C4: configs/resources/audio/fp4DM_rank_1/PAPRRip_Paper Sheet Screw Up_PSE_SL-FL_5yIzc.wav
-          C5: configs/resources/audio/JKU_rank_1/DESTRCrsh_Crash Mix_PSE_BW-BD3_9bJMQ.wav
-          C6: configs/resources/audio/Kumar_rank_1/GLASBrk_Glass Break Various Size Crashes Shards Fall 02_PSE_OCX_lerXx-s001.wav
-          C7: configs/resources/audio/PassionLab_rank_1/THUN_Crackle Thunder_PSE_OE_Ru0zC-s001.wav
-          C8: configs/resources/audio/ThiagoLobato_rank_1/RAIN_Rain City_PSE_BW-BD3HL_lmVx4-s008.wav
+          C2: configs/resources/audio/Model1_rank_1/THUN_Designed Vintage Lightning Long_PSE_ANI2_dYJV8-s005.wav
+          C3: configs/resources/audio/Model3_rank_1/PAPRRip_Rip Paper_PSE_OE_mgpUB-s004.wav
+          C4: configs/resources/audio/Model4_rank_1/PAPRRip_Paper Sheet Screw Up_PSE_SL-FL_5yIzc.wav
+          C5: configs/resources/audio/Model5_rank_1/DESTRCrsh_Crash Mix_PSE_BW-BD3_9bJMQ.wav
+          C6: configs/resources/audio/Model6_rank_1/GLASBrk_Glass Break Various Size Crashes Shards Fall 02_PSE_OCX_lerXx-s001.wav
+          C7: configs/resources/audio/Model7_rank_1/THUN_Crackle Thunder_PSE_OE_Ru0zC-s001.wav
+          C8: configs/resources/audio/Model8_rank_1/RAIN_Rain City_PSE_BW-BD3HL_lmVx4-s008.wav
 
     - type: mushra
       id: trial_random_11
@@ -224,13 +224,13 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/THUN_Thunder Rumble Rolls No Rain_PSE_BR-C_0eBgn(4).wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/PLASFric_Plastic Wrap Crumple_PSE_BW-BD3HL_9UcEy.wav
-          C3: configs/resources/audio/Chung_rank_1/FEETHmn_Dog Paws Short Movements Concrete_PSE_FTS_NFpvj-s001.wav
-          C4: configs/resources/audio/fp4DM_rank_1/FEETHmn_Boots Steady Walk Dirt and Grass_PSE_FTS_dweq6-s002.wav
-          C5: configs/resources/audio/JKU_rank_1/THUN_Thunder Distant Stereo 07_PSE_SL-FL_fDJAm-s001.wav
-          C6: configs/resources/audio/Kumar_rank_1/BIRDSong_Whitehead Cucall 42053_PSE_BBC-NAT_wVU3j-s007.wav
-          C7: configs/resources/audio/PassionLab_rank_1/BIRDSong_Jackdaw Calls Sel 85342_PSE_BBC-NAT_LxucH-s002.wav
-          C8: configs/resources/audio/ThiagoLobato_rank_1/RAIN_Weather Rain EC1018Cc_PSE_BBC-HIS_WVfNU-s004.wav
+          C2: configs/resources/audio/Model1_rank_1/PLASFric_Plastic Wrap Crumple_PSE_BW-BD3HL_9UcEy.wav
+          C3: configs/resources/audio/Model3_rank_1/FEETHmn_Dog Paws Short Movements Concrete_PSE_FTS_NFpvj-s001.wav
+          C4: configs/resources/audio/Model4_rank_1/FEETHmn_Boots Steady Walk Dirt and Grass_PSE_FTS_dweq6-s002.wav
+          C5: configs/resources/audio/Model5_rank_1/THUN_Thunder Distant Stereo 07_PSE_SL-FL_fDJAm-s001.wav
+          C6: configs/resources/audio/Model6_rank_1/BIRDSong_Whitehead Cucall 42053_PSE_BBC-NAT_wVU3j-s007.wav
+          C7: configs/resources/audio/Model7_rank_1/BIRDSong_Jackdaw Calls Sel 85342_PSE_BBC-NAT_LxucH-s002.wav
+          C8: configs/resources/audio/Model8_rank_1/RAIN_Weather Rain EC1018Cc_PSE_BBC-HIS_WVfNU-s004.wav
 
     - type: mushra
       id: trial_random_12
@@ -242,14 +242,14 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/WHSH_SFX Flash Spring Fling 1_PSE_BR-C_O4GVm.wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/WEAPWhip_Whip Whoosh_PSE_BW-BD3_NYFWo.wav
-          C3: configs/resources/audio/Baseline_rank_1/CLOTHRip_Cloth Tear Short 01_PSE_SR-COM_dbacp.wav
-          C4: configs/resources/audio/Chung_rank_1/WEAPSwrd_Sword Whip_PSE_BW-BD3_P6eF2.wav
-          C5: configs/resources/audio/fp4DM_rank_1/WEAPSwrd_Sword Whip_PSE_BW-BD3_HmVrv.wav
-          C6: configs/resources/audio/JKU_rank_1/ANMLDog_Maltese 2D 7_PSE_BBC-1-60_ih8eK.wav
-          C7: configs/resources/audio/Kumar_rank_1/BIRDSong_Bird Squawk_PSE_BW-BD3HL_YwUpD.wav
-          C8: configs/resources/audio/PassionLab_rank_1/WEAPWhip_Whipcrack Outdoors 09_PSE_CLACK_KlO3v.wav
-          C9: configs/resources/audio/ThiagoLobato_rank_1/WEAPWhip_Leather Whip Hits Crack Snap_PSE_SMV1_k4AwD-s002.wav
+          C2: configs/resources/audio/Model1_rank_1/WEAPWhip_Whip Whoosh_PSE_BW-BD3_NYFWo.wav
+          C3: configs/resources/audio/Model2_rank_1/CLOTHRip_Cloth Tear Short 01_PSE_SR-COM_dbacp.wav
+          C4: configs/resources/audio/Model3_rank_1/WEAPSwrd_Sword Whip_PSE_BW-BD3_P6eF2.wav
+          C5: configs/resources/audio/Model4_rank_1/WEAPSwrd_Sword Whip_PSE_BW-BD3_HmVrv.wav
+          C6: configs/resources/audio/Model5_rank_1/ANMLDog_Maltese 2D 7_PSE_BBC-1-60_ih8eK.wav
+          C7: configs/resources/audio/Model6_rank_1/BIRDSong_Bird Squawk_PSE_BW-BD3HL_YwUpD.wav
+          C8: configs/resources/audio/Model7_rank_1/WEAPWhip_Whipcrack Outdoors 09_PSE_CLACK_KlO3v.wav
+          C9: configs/resources/audio/Model8_rank_1/WEAPWhip_Leather Whip Hits Crack Snap_PSE_SMV1_k4AwD-s002.wav
 
     - type: mushra
       id: trial_random_13
@@ -261,14 +261,14 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/Breaking_laptop drop1.wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/WEAPSwrd_Sword Hits Metallic Impacts Ringing Clanks_PSE_OW_FLNze-s001.wav
-          C3: configs/resources/audio/Baseline_rank_1/GUNAuto_Gunshot Submachine Gun_PSE_BW-BD3_mS5Ci.wav
-          C4: configs/resources/audio/Chung_rank_1/FEETHmn_Boots Walk Gravel Gritty_PSE_FTS_ONYJt-s003.wav
-          C5: configs/resources/audio/fp4DM_rank_1/GUNAuto_Gunshot Submachine Gun_PSE_BW-BD3_nYQtm.wav
-          C6: configs/resources/audio/JKU_rank_1/DESTRCrsh_Impacts Simple 347_PSE_SB-JI_6YAly-s004.wav
-          C7: configs/resources/audio/Kumar_rank_1/ANMLDog_Dog Door Bumps Slides Multiple Hits_PSE_OC_5nuHo-s003.wav
-          C8: configs/resources/audio/PassionLab_rank_1/FEETHmn_Jump Shallow Snow Stomp_PSE_GEN3_JgeBt-s001.wav
-          C9: configs/resources/audio/ThiagoLobato_rank_1/FEETHmn_Leaves Footstep Single Heavy 043_PSE_WPA_bPVwr-s002.wav
+          C2: configs/resources/audio/Model1_rank_1/WEAPSwrd_Sword Hits Metallic Impacts Ringing Clanks_PSE_OW_FLNze-s001.wav
+          C3: configs/resources/audio/Model2_rank_1/GUNAuto_Gunshot Submachine Gun_PSE_BW-BD3_mS5Ci.wav
+          C4: configs/resources/audio/Model3_rank_1/FEETHmn_Boots Walk Gravel Gritty_PSE_FTS_ONYJt-s003.wav
+          C5: configs/resources/audio/Model4_rank_1/GUNAuto_Gunshot Submachine Gun_PSE_BW-BD3_nYQtm.wav
+          C6: configs/resources/audio/Model5_rank_1/DESTRCrsh_Impacts Simple 347_PSE_SB-JI_6YAly-s004.wav
+          C7: configs/resources/audio/Model6_rank_1/ANMLDog_Dog Door Bumps Slides Multiple Hits_PSE_OC_5nuHo-s003.wav
+          C8: configs/resources/audio/Model7_rank_1/FEETHmn_Jump Shallow Snow Stomp_PSE_GEN3_JgeBt-s001.wav
+          C9: configs/resources/audio/Model8_rank_1/FEETHmn_Leaves Footstep Single Heavy 043_PSE_WPA_bPVwr-s002.wav
 
 
     - type: mushra
@@ -281,14 +281,14 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/PAPRHndl_Wrapper Crumple_PSE_BW-BD3HL_vnw5s.wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/PAPRRip_Manila Envelope Open_PSE_BW-BD3_fFgT6.wav
-          C3: configs/resources/audio/Baseline_rank_1/PAPRRip_Scissors Cut 04_PSE_SR-COM_PdacU.wav
-          C4: configs/resources/audio/Chung_rank_1/FOLYProp_Packaging Tape Crumple_PSE_BW-BD3HL_n3FC4.wav
-          C5: configs/resources/audio/fp4DM_rank_1/PAPRHndl_Paper Crumple_PSE_BW-BD3_K3pcY.wav
-          C6: configs/resources/audio/JKU_rank_1/ANMLDog_BullHeavy Breathing Very Fast Panting Sniffing 056 a_PSE_K9_LIRPC-s003.wav
-          C7: configs/resources/audio/Kumar_rank_1/PAPRHndl_Large Sheet of Flip Chart Paper Crumple_PSE_GEN6_IEmfX.wav
-          C8: configs/resources/audio/PassionLab_rank_1/PAPRHndl_Paper Bag Remove Object_PSE_BW-BD3HL_eB9cf.wav
-          C9: configs/resources/audio/ThiagoLobato_rank_1/PAPRRip_Paper Sheet Wrapping Rolled Tightly01_PSE_SL-FL_RMEL5.wav 
+          C2: configs/resources/audio/Model1_rank_1/PAPRRip_Manila Envelope Open_PSE_BW-BD3_fFgT6.wav
+          C3: configs/resources/audio/Model2_rank_1/PAPRRip_Scissors Cut 04_PSE_SR-COM_PdacU.wav
+          C4: configs/resources/audio/Model3_rank_1/FOLYProp_Packaging Tape Crumple_PSE_BW-BD3HL_n3FC4.wav
+          C5: configs/resources/audio/Model4_rank_1/PAPRHndl_Paper Crumple_PSE_BW-BD3_K3pcY.wav
+          C6: configs/resources/audio/Model5_rank_1/ANMLDog_BullHeavy Breathing Very Fast Panting Sniffing 056 a_PSE_K9_LIRPC-s003.wav
+          C7: configs/resources/audio/Model6_rank_1/PAPRHndl_Large Sheet of Flip Chart Paper Crumple_PSE_GEN6_IEmfX.wav
+          C8: configs/resources/audio/Model7_rank_1/PAPRHndl_Paper Bag Remove Object_PSE_BW-BD3HL_eB9cf.wav
+          C9: configs/resources/audio/Model8_rank_1/PAPRRip_Paper Sheet Wrapping Rolled Tightly01_PSE_SL-FL_RMEL5.wav 
 
     - type: mushra
       id: trial_random_15
@@ -300,11 +300,11 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/SnakeHiss.wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/ANMLRept_Snake Hiss_PSE_BW-BD3HL_3gWEk.wav
-          C3: configs/resources/audio/Baseline_rank_1/ANMLRept_Alligator Hiss_PSE_BW-BD3HL_xXS7M.wav
-          C4: configs/resources/audio/Chung_rank_1/ANMLRept_Snake Hiss_PSE_BW-BD3_ot8zD.wav
-          C5: configs/resources/audio/JKU_rank_1/ANMLRept_Alligator Hiss_PSE_BW-BD3HL_OuoqV.wav
-          C6: configs/resources/audio/Kumar_rank_1/BIRDSong_Canyon Wren MCso 62129_PSE_BBC-NAT_l9Bnq-s001.wav
+          C2: configs/resources/audio/Model1_rank_1/ANMLRept_Snake Hiss_PSE_BW-BD3HL_3gWEk.wav
+          C3: configs/resources/audio/Model2_rank_1/ANMLRept_Alligator Hiss_PSE_BW-BD3HL_xXS7M.wav
+          C4: configs/resources/audio/Model3_rank_1/ANMLRept_Snake Hiss_PSE_BW-BD3_ot8zD.wav
+          C5: configs/resources/audio/Model5_rank_1/ANMLRept_Alligator Hiss_PSE_BW-BD3HL_OuoqV.wav
+          C6: configs/resources/audio/Model6_rank_1/BIRDSong_Canyon Wren MCso 62129_PSE_BBC-NAT_l9Bnq-s001.wav
           
     - type: mushra
       id: trial_random_16
@@ -316,14 +316,14 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/Rip_FOLYProp_Cord Package Remove_PSE_BW-BD3HL_n7RXJ.wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/CLOTHRip_Cloth Rip_PSE_BW-BD3HL_ahXO0.wav
-          C3: configs/resources/audio/Baseline_rank_1/CLOTHRip_Cloth Rip_PSE_BW-BD3HL_76hmS.wav
-          C4: configs/resources/audio/Chung_rank_1/PAPRRip_Paper Rip_PSE_BW-BD3HL_54Lqp.wav
-          C5: configs/resources/audio/fp4DM_rank_1/CLOTHRip_Cloth Rips Tearing Very Thin Material_PSE_OX_glis0-s006.wav
-          C6: configs/resources/audio/JKU_rank_1/WEAPWhip_Alien Whips Whip Like Synth Bursts Swish 07_PSE_OCX_hZ2Yu-s002.wav
-          C7: configs/resources/audio/Kumar_rank_1/WEAPSwrd_Sword Scrape_PSE_BW-BD3_hGVpb.wav
-          C8: configs/resources/audio/PassionLab_rank_1/WEAPSwrd_Fight Impacts Huge Natural Reverb_PSE_GEN_qvbcC-s001.wav
-          C9: configs/resources/audio/ThiagoLobato_rank_1/WEAPSwrd_Sword Archer Schwings Fast Lite Scrapes 1_PSE_BR-C_Hk5xJ-s006.wav
+          C2: configs/resources/audio/Model1_rank_1/CLOTHRip_Cloth Rip_PSE_BW-BD3HL_ahXO0.wav
+          C3: configs/resources/audio/Model2_rank_1/CLOTHRip_Cloth Rip_PSE_BW-BD3HL_76hmS.wav
+          C4: configs/resources/audio/Model3_rank_1/PAPRRip_Paper Rip_PSE_BW-BD3HL_54Lqp.wav
+          C5: configs/resources/audio/Model4_rank_1/CLOTHRip_Cloth Rips Tearing Very Thin Material_PSE_OX_glis0-s006.wav
+          C6: configs/resources/audio/Model5_rank_1/WEAPWhip_Alien Whips Whip Like Synth Bursts Swish 07_PSE_OCX_hZ2Yu-s002.wav
+          C7: configs/resources/audio/Model6_rank_1/WEAPSwrd_Sword Scrape_PSE_BW-BD3_hGVpb.wav
+          C8: configs/resources/audio/Model7_rank_1/WEAPSwrd_Fight Impacts Huge Natural Reverb_PSE_GEN_qvbcC-s001.wav
+          C9: configs/resources/audio/Model8_rank_1/WEAPSwrd_Sword Archer Schwings Fast Lite Scrapes 1_PSE_BR-C_Hk5xJ-s006.wav
 
     - type: mushra
       id: trial_random_17
@@ -335,14 +335,14 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/DoorBellVarious2.wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/BIRDSong_Hobby Flightcall 19196_PSE_BBC-NAT_HFmuf-s006.wav
-          C3: configs/resources/audio/Baseline_rank_1/BIRDSong_Peregrine Falcon 9004_PSE_BBC-NAT_unDzf-s011.wav
-          C4: configs/resources/audio/Chung_rank_1/HMNSnor_Comedy Snores ECD96a_PSE_BBC-61-166_tDWnC-s003.wav
-          C5: configs/resources/audio/fp4DM_rank_1/HMNSnor_Comedy Snores ECD96a_PSE_BBC-61-166_tDWnC-s005.wav
-          C6: configs/resources/audio/JKU_rank_1/GUNAuto_Gunshot Machine Gun_PSE_BW-BD3HL_mqeLr.wav
-          C7: configs/resources/audio/Kumar_rank_1/GUNAuto_M60E4 Machine Gun Bursts of Rapid Fire_PSE_OW_F5lj3.wav
-          C8: configs/resources/audio/PassionLab_rank_1/GUNAuto_Guns Machine Guns EC146Aa_PSE_BBC-HIS_ZdnbW.wav
-          C9: configs/resources/audio/ThiagoLobato_rank_1/GUNAuto_M2 Browning Belt Fed Machine Gun Gunshot 270 62 ST1_PSE_KCGP_fWsFa.wav
+          C2: configs/resources/audio/Model1_rank_1/BIRDSong_Hobby Flightcall 19196_PSE_BBC-NAT_HFmuf-s006.wav
+          C3: configs/resources/audio/Model2_rank_1/BIRDSong_Peregrine Falcon 9004_PSE_BBC-NAT_unDzf-s011.wav
+          C4: configs/resources/audio/Model3_rank_1/HMNSnor_Comedy Snores ECD96a_PSE_BBC-61-166_tDWnC-s003.wav
+          C5: configs/resources/audio/Model4_rank_1/HMNSnor_Comedy Snores ECD96a_PSE_BBC-61-166_tDWnC-s005.wav
+          C6: configs/resources/audio/Model5_rank_1/GUNAuto_Gunshot Machine Gun_PSE_BW-BD3HL_mqeLr.wav
+          C7: configs/resources/audio/Model6_rank_1/GUNAuto_M60E4 Machine Gun Bursts of Rapid Fire_PSE_OW_F5lj3.wav
+          C8: configs/resources/audio/Model7_rank_1/GUNAuto_Guns Machine Guns EC146Aa_PSE_BBC-HIS_ZdnbW.wav
+          C9: configs/resources/audio/Model8_rank_1/GUNAuto_M2 Browning Belt Fed Machine Gun Gunshot 270 62 ST1_PSE_KCGP_fWsFa.wav
 
     - type: mushra
       id: trial_random_18
@@ -354,13 +354,13 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/Smash_S38-23 Huge skid and good crash bits.wav
-          C2: configs/resources/audio/Baseline_rank_1/FEETAnml_Creature Footsteps Spider Clacky Walking_PSE_OX_v6DkB-s002.wav
-          C3: configs/resources/audio/Chung_rank_1/FEETAnml_Animal Footsteps_PSE_OE_9Glq6-s005.wav
-          C4: configs/resources/audio/fp4DM_rank_1/GUNAuto_Glock 18 Full Auto Pistol Gunshots 02 13 M1_PSE_KCGP_G8OS2-s003.wav
-          C5: configs/resources/audio/JKU_rank_1/FEETHmn_HMS Belfast Group Running Footsteps Pass Bys 01 ST1_PSE_KCWC_V65Ii-s005.wav
-          C6: configs/resources/audio/Kumar_rank_1/FEETHmn_Slippers Short Walk Hurried Concrete_PSE_FTS_uxRfZ-s002.wav
-          C7: configs/resources/audio/PassionLab_rank_1/FEETHmn_HMS Belfast Ship Fast Metal Footsteps 01 ST1_PSE_KCWC_Q8aTf-s004.wav
-          C8: configs/resources/audio/ThiagoLobato_rank_1/FEETHmn_Hard Footsteps Stop CU_PSE_KCV2_5BIPs-s004.wav
+          C2: configs/resources/audio/Model2_rank_1/FEETAnml_Creature Footsteps Spider Clacky Walking_PSE_OX_v6DkB-s002.wav
+          C3: configs/resources/audio/Model3_rank_1/FEETAnml_Animal Footsteps_PSE_OE_9Glq6-s005.wav
+          C4: configs/resources/audio/Model4_rank_1/GUNAuto_Glock 18 Full Auto Pistol Gunshots 02 13 M1_PSE_KCGP_G8OS2-s003.wav
+          C5: configs/resources/audio/Model5_rank_1/FEETHmn_HMS Belfast Group Running Footsteps Pass Bys 01 ST1_PSE_KCWC_V65Ii-s005.wav
+          C6: configs/resources/audio/Model6_rank_1/FEETHmn_Slippers Short Walk Hurried Concrete_PSE_FTS_uxRfZ-s002.wav
+          C7: configs/resources/audio/Model7_rank_1/FEETHmn_HMS Belfast Ship Fast Metal Footsteps 01 ST1_PSE_KCWC_Q8aTf-s004.wav
+          C8: configs/resources/audio/Model8_rank_1/FEETHmn_Hard Footsteps Stop CU_PSE_KCV2_5BIPs-s004.wav
 
     - type: mushra
       id: trial_random_19
@@ -372,13 +372,13 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/CREABeast_Monster Struggle Grunt 126_PSE_SB-SS2_uTrtF.wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/CREABeast_Monster Pig Grunt_PSE_BW-BD3HL_nOMdL.wav
-          C3: configs/resources/audio/Chung_rank_1/CREABeast_Monster Struggle Grunt 124_PSE_SB-SS2_DSIUh.wav
-          C4: configs/resources/audio/fp4DM_rank_1/CREABeast_Monster Struggle Grunt 136_PSE_SB-SS2_kWXvS.wav
-          C5: configs/resources/audio/JKU_rank_1/HMNSnor_Comedy Snores ECD96a_PSE_BBC-61-166_tDWnC-s008.wav
-          C6: configs/resources/audio/Kumar_rank_1/ANMLFarm_Animal Pig Landrace Edgar Inside Grumble04_PSE_SL-FL_Hpd8Q.wav
-          C7: configs/resources/audio/PassionLab_rank_1/ANMLDog_Doberman Dog Growls Angry Airy at Tail 07_PSE_OC_Ad8FY-s002.wav
-          C8: configs/resources/audio/ThiagoLobato_rank_1/ANMLDog_Border Collie Grumbling Whining_PSE_GEN_v5ZeR-s003.wav
+          C2: configs/resources/audio/Model1_rank_1/CREABeast_Monster Pig Grunt_PSE_BW-BD3HL_nOMdL.wav
+          C3: configs/resources/audio/Model3_rank_1/CREABeast_Monster Struggle Grunt 124_PSE_SB-SS2_DSIUh.wav
+          C4: configs/resources/audio/Model4_rank_1/CREABeast_Monster Struggle Grunt 136_PSE_SB-SS2_kWXvS.wav
+          C5: configs/resources/audio/Model5_rank_1/HMNSnor_Comedy Snores ECD96a_PSE_BBC-61-166_tDWnC-s008.wav
+          C6: configs/resources/audio/Model6_rank_1/ANMLFarm_Animal Pig Landrace Edgar Inside Grumble04_PSE_SL-FL_Hpd8Q.wav
+          C7: configs/resources/audio/Model7_rank_1/ANMLDog_Doberman Dog Growls Angry Airy at Tail 07_PSE_OC_Ad8FY-s002.wav
+          C8: configs/resources/audio/Model8_rank_1/ANMLDog_Border Collie Grumbling Whining_PSE_GEN_v5ZeR-s003.wav
     
     - type: mushra
       id: trial_random_20
@@ -390,13 +390,13 @@ pages:
       createAnchor70: false
       stimuli:
           C1: configs/resources/audio/Sounds_original/footsteps_walking on concrete.wav
-          C2: configs/resources/audio/AudioAlchemyrank_1/GUNAuto_Gunshot Machine Gun_PSE_BW-BD3_VJkNh.wav
-          C3: configs/resources/audio/Chung_rank_1/GUNAuto_Gunshot Machine Gun_PSE_BW-BD3_s4PXr.wav
-          C4: configs/resources/audio/fp4DM_rank_1/METLTonl_Mechanical Suspension Metal Spring Wobble Short03_PSE_SL-FL_wAB4G.wav
-          C5: configs/resources/audio/JKU_rank_1/GUNAuto_Glock 18 Full Auto Pistol Gunshots 02 46 M1_PSE_KCGP_uDZPT-s007.wav
-          C6: configs/resources/audio/Kumar_rank_1/FEETHmn_Running through Shallow Snow_PSE_GEN3_vzBwA-s002.wav
-          C7: configs/resources/audio/PassionLab_rank_1/GLASBrk_Fluorescent Tube Brake Crack Tonal Hits Shards 01_PSE_OCX_5UF8r-s008.wav
-          C8: configs/resources/audio/ThiagoLobato_rank_1/GLASBrk_Beer Bottle_PSE_OE_Q241t-s002.wav
+          C2: configs/resources/audio/Model1_rank_1/GUNAuto_Gunshot Machine Gun_PSE_BW-BD3_VJkNh.wav
+          C3: configs/resources/audio/Model3_rank_1/GUNAuto_Gunshot Machine Gun_PSE_BW-BD3_s4PXr.wav
+          C4: configs/resources/audio/Model4_rank_1/METLTonl_Mechanical Suspension Metal Spring Wobble Short03_PSE_SL-FL_wAB4G.wav
+          C5: configs/resources/audio/Model5_rank_1/GUNAuto_Glock 18 Full Auto Pistol Gunshots 02 46 M1_PSE_KCGP_uDZPT-s007.wav
+          C6: configs/resources/audio/Model6_rank_1/FEETHmn_Running through Shallow Snow_PSE_GEN3_vzBwA-s002.wav
+          C7: configs/resources/audio/Model7_rank_1/GLASBrk_Fluorescent Tube Brake Crack Tonal Hits Shards 01_PSE_OCX_5UF8r-s008.wav
+          C8: configs/resources/audio/Model8_rank_1/GLASBrk_Beer Bottle_PSE_OE_Q241t-s002.wav
     
     - type: finish
       name: Thank you
